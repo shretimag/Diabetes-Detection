@@ -47,5 +47,21 @@ The **Random Forest** classifier showed the best performance with:
 sample = np.array([[6, 148, 72, 35, 0, 33.6, 0.627, 50]])
 sample_scaled = scaler.transform(sample)
 prediction = model.predict(sample_scaled)
+```
+---
+## 🛠️ Tech Stack
+- Python (`NumPy`, `Pandas`, `Scikit-Learn`)
+- `Matplotlib` & `Seaborn` for visualizations
+- Jupyter Notebook / Google Colab
+
+---
+###💡 Future Improvements
+- Hyperparameter tuning using GridSearchCV
+- Model deployment with Streamlit or Flask
+- Cross-validation and imputation for missing values
+- Advanced models like XGBoost or LightGBM
+
+  
+---
 
 
