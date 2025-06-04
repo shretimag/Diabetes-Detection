@@ -55,7 +55,7 @@ prediction = model.predict(sample_scaled)
 - Jupyter Notebook / Google Colab
 
 ---
-###💡 Future Improvements
+## 💡Future Improvements
 - Hyperparameter tuning using GridSearchCV
 - Model deployment with Streamlit or Flask
 - Cross-validation and imputation for missing values
